@@ -3,7 +3,9 @@
 
 // You must write an algorithm that runs in O(n) time and uses only constant extra space.
 
- 
+
+// Ye Questions Krlo Google Pakka
+
 
 // Example 1:
 
