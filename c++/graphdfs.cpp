@@ -7,3 +7,4 @@ public:
         return hasPathSum(root->left,sum)||hasPathSum(root->right,sum);
     }
 };
+https://leetcode.com/problems/path-sum/
