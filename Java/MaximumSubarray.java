@@ -12,6 +12,7 @@ class Solution {
 }
 
 // USING KADANE ALGORITHM
+
 class Solution {
     public int maxSubArray(int[] nums) {
         int sum = nums[0];
